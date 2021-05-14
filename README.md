@@ -34,3 +34,10 @@ This game can be hosted on a web server so that it becomes available in the netw
    4. Your next recipe will be presented to you in few seconds
 7. Find the final score in the top of the page.
 Play often to increase your score and improve your rankings.
+
+Contributors
+1. Amrita Rohit
+2. Pragati Sharma
+3. Vijayashree Nanjundaswamy
+
+This project is based on the code available at https://github.com/teamcalendar/projectgitgrub
